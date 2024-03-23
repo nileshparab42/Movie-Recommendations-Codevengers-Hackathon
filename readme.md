@@ -1,13 +1,17 @@
 **Movie Recommendation App using Streamlit**
 
 **Description:**
-This Python application utilizes the Streamlit library to create an interactive web-based movie recommendation system. It employs collaborative filtering techniques to suggest movies based on user preferences and ratings.
+This Python application utilizes the Streamlit library to create an interactive web-based movie recommendation system. It employs collaborative filtering techniques, particularly cosine similarity, to suggest movies based on user preferences and ratings.
+
+![Movie Recommendation](https://example.com/movie_recommendation.png)
 
 **Features:**
 1. **User Input:** Users can input their movie preferences by selecting genres, actors, directors, and ratings.
-2. **Recommendations:** Based on user input, the app suggests a list of recommended movies.
+2. **Recommendations:** Based on user input, the app suggests a list of recommended movies using cosine similarity.
 3. **Movie Details:** Users can view details such as plot summary, ratings, and cast for each recommended movie.
 4. **Interactive Interface:** Streamlit provides a user-friendly interface that dynamically updates recommendations based on user selections.
+
+![Interactive Interface](https://example.com/interactive_interface.png)
 
 **How to Use:**
 1. Install the necessary Python libraries using pip: `pip install streamlit pandas scikit-learn`
@@ -34,3 +38,4 @@ This Python application utilizes the Streamlit library to create an interactive 
 
 **License:**
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
