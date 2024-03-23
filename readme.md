@@ -11,7 +11,7 @@ This Python application utilizes the Streamlit library to create an interactive 
 3. **Movie Details:** Users can view details such as plot summary, ratings, and cast for each recommended movie.
 4. **Interactive Interface:** Streamlit provides a user-friendly interface that dynamically updates recommendations based on user selections.
 
-![Interactive Interface](https://github.com/nileshparab42/Movie-Recommendations-Codevengers-Hackathon/blob/main/images/2.png)
+![Interactive Interface](https://github.com/nileshparab42/Movie-Recommendations-Codevengers-Hackathon/blob/main/images/3.png)
 
 **How to Use:**
 1. Install the necessary Python libraries using pip: `pip install streamlit pandas scikit-learn`
